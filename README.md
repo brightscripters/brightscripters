@@ -1,4 +1,10 @@
-### Hi there 👋
+### Bright Scripters
+
+Building solutions based on the BrightSign Digital Signage media player.
+
+#### BrightScript and Functional Programming
+
+BrightScript is the scripting language which drives the BrightSign player, is not a Functional Programming language by its definition. Functions like map filter and reduce are not part of the core BrightSign language, but those could be easily implemented. Anonymouse functions can be defined at run-time, assigned to variables and can be passed arround to other function. Such features enables programming in functional style, resulting in readable and maintainable code.
 
 <!--
 **brightscripters/brightscripters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
