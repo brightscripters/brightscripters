@@ -1,6 +1,6 @@
 ### Bright Scripters
 
-Building solutions based on the BrightSign Digital Signage media player.
+Building solutions for the BrightSign Digital Signage media player.
 
 #### BrightScript and Functional Programming
 
